@@ -1,91 +1,80 @@
-# Job Application Assistant for [YOUR_NAME]
-
-<!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
+# Job Application Assistant for Abhishek Kumar
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
+This repo is a job application workspace. Claude acts as a career advisor and application assistant for Abhishek Kumar, helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
 4. **Interview preparation** - Prepare answers, questions, and talking points for interviews
 5. **Career strategy** - Advise on positioning and personal branding
 
+**Automation mode: prepare, never submit.** Scrape, rank and prepare tailored CV + cover letter PDFs. Abhishek submits every application himself. Never create accounts, enter passwords, or click submit/send on his behalf.
+
 ## Candidate Profile
 
-<!-- This section is auto-populated by /setup. You can also fill it in manually. -->
-
 ### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
+- **Name:** Abhishek Kumar
+- **Location:** Bengaluru, India (use this on CVs/portfolio; open to Pune, Hyderabad, Noida/Gurgaon and remote India)
 - **Languages:**
   | Language | Level |
   |----------|-------|
-  | [LANGUAGE] | [LEVEL] |
-  <!-- Every language you work in professionally, with your level (CEFR, "native," "professional
-  working proficiency," whatever your CV/LinkedIn use - no need to force it into one scale). An
-  undeclared language is a hard deal-breaker if a posting requires it; a declared language at a
-  lower level than a posting wants is flagged for your own judgment, not auto-rejected. See
-  04-job-evaluation.md's Language Gate. -->
-- **CV language:** [YOUR_CV_LANGUAGE] <!-- English unless your market expects otherwise; /setup asks -->
+  | TODO | TODO - declare every language you work in and your honest level (an undeclared language is treated as a hard no) |
+- **CV language:** English
+- **Phone / Email:** TODO - fill in before first /apply (not stored here yet)
+- **LinkedIn:** linkedin.com/in/abhishek-kumar-038473310
+- **GitHub:** github.com/abhishek5228
+- **Portfolio:** abhishek5228.netlify.app (link it on every CV)
 
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+- **Status:** Career break since Mar 2024 (see Career break note)
+- **LinkedIn headline:** TODO - fill in
+
+### Career break note (include on EVERY CV and cover letter, 2 lines)
+Career break (Mar 2024 - present): prepared for UPSC and State Civil Services; wrote one UPSC Mains and one BPSC Mains.
+Used the time to upskill through hands-on projects (see Independent Projects).
 
 ### Education
-<!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- **B.Tech in Information Technology** (2018-2022) - VIT Vellore
+  - Topics: operating systems, C/C++/C#, core CS
 
 ### Professional Experience
-<!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- **TODO exact job title** (2022 - 2023) - **Fidelity Investments** (Bangalore)
+  - Backend services in Java, Spring Boot and Kafka
+  - Monitoring with Grafana
+  - TODO: add quantified achievements (ask before inventing any)
+- **Freelance part-time API Developer** (Jan 2024 - Mar 2024) - **Nasdaq** (MuleSoft)
+  - API development with MuleSoft
+
+### Independent Projects
+- **fleet_intelligence** (github.com/abhishek5228/fleet_intelligence) - own project
+- **Fleet breakdown management system** - AI/WhatsApp-based, own project
+- TODO: add one-line outcomes for each
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Primary:** Java, Spring Boot, Spring Security, Hibernate/JPA, Kafka, Python, Django
+- **Secondary:** Node.js, Angular (rxjs, ngrx), Celery/background workers, C, C++, C#, multithreading, system design
+- **Testing:** Jest, Vitest, React Testing Library, pytest, Playwright, Selenium
+- **Software:** Grafana, Azure DevOps, Jira, Google Gemini (AI coding assistant), MuleSoft
 
-### Certifications
-<!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+### Certifications & Achievements (NEVER remove or shorten this section on any CV)
+- Java Programming Certification
+- Hackathon placing
+- TODO: add exact titles, issuers and dates so they are stated precisely
 
 ### Publications
-<!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
-
-### Awards
-<!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+- None listed on CVs (the ResearchGate publication and its link are removed from the resume at Abhishek's request).
 
 ### Behavioral Profile
-<!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+- Not assessed. Do not invent traits; treat as unknown.
 
 ### What Excites You
-<!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+- Backend and full-stack engineering, and AI/Gen AI engineering
 
 ### Target Sectors
-<!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- Product and fintech companies, AI/Gen AI teams, cloud/infra software
+- Target roles: Backend, Software Engineer/Developer, Full Stack, Java Developer, AI Engineer / Gen AI, Junior Developer, SWE intern / entry-level (about 0-2 years experience)
 
 ### Deal-breakers
-<!-- Hard constraints on job search. Language requirements are handled separately and
-automatically from your Languages table above - don't duplicate them here. -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- None stated. Ask before assuming any.
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)

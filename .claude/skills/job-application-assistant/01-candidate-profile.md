@@ -4,70 +4,70 @@ framework_version: 1.1.1
 
 # Candidate Profile
 
-<!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all sections will be filled with your actual information -->
-
 ## Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_ADDRESS]
-- **Phone:** [YOUR_PHONE]
-- **Email:** [YOUR_EMAIL]
-- **LinkedIn:** [YOUR_LINKEDIN_URL]
-- **GitHub:** [YOUR_GITHUB_URL]
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **Constraints:** [YOUR_COMMUTE_OR_LOCATION_CONSTRAINTS]
+- **Name:** Abhishek Kumar
+- **Location:** Bengaluru, India
+- **Phone:** TODO
+- **Email:** TODO
+- **LinkedIn:** linkedin.com/in/abhishek-kumar-038473310
+- **GitHub:** github.com/abhishek5228
+- **Portfolio:** abhishek5228.netlify.app
+- **Status:** Career break since Mar 2024 (UPSC and State Civil Services preparation)
+- **Constraints:** Bengaluru preferred; open to Pune, Hyderabad, Noida/Gurgaon and remote India
+
+### Career break note (2 lines, on every CV and cover letter)
+Career break (Mar 2024 - present): prepared for UPSC and State Civil Services; wrote one UPSC Mains and one BPSC Mains.
+Used the time to upskill through hands-on projects (see Independent Projects).
 
 ### Languages
-<!-- Every language you can work in professionally, with your honest level. Used by the
-Language Gate in 04-job-evaluation.md and by job-scraper/search-queries.md's query-language
-generation. Omit any language you don't actually work in - an undeclared language is treated as
-a hard no, not a gap to smooth over. -->
-
 | Language | Level | Notes |
 |----------|-------|-------|
-| [LANGUAGE] | [LEVEL, e.g. "Native" / "C2" / "B1/B2 (conversational)"] | [optional] |
+| TODO | TODO | Declare honestly; undeclared languages are treated as a hard no |
 
 ## Education
 
 | Degree | Period | Institution | Key Topics |
 |--------|--------|-------------|------------|
-| [DEGREE] | [YEARS] | [INSTITUTION] | [TOPICS] |
+| B.Tech, Information Technology | 2018-2022 | VIT Vellore | Operating systems, C/C++/C#, core CS |
 
 ## Professional Experience
 
-### [JOB_TITLE] - [COMPANY] ([START] - [END])
-[LOCATION]
-- [RESPONSIBILITY_OR_ACHIEVEMENT_1]
-- [RESPONSIBILITY_OR_ACHIEVEMENT_2]
-- [RESPONSIBILITY_OR_ACHIEVEMENT_3]
+### TODO exact job title - Fidelity Investments (2022 - 2023)
+Bangalore
+- Built and maintained backend services with Java, Spring Boot and Kafka
+- Monitored services with Grafana
+- TODO: quantified achievements (never invent)
 
-<!-- Add more roles as needed -->
+### Freelance part-time API Developer - Nasdaq (Jan 2024 - Mar 2024)
+- API development with MuleSoft
 
 ## Independent Projects
-<!-- Projects outside of employment: freelance, open source, personal -->
-- **[PROJECT_NAME]**: [DESCRIPTION]
+- **fleet_intelligence** (github.com/abhishek5228/fleet_intelligence): own project; TODO one-line outcome
+- **Fleet breakdown management system**: AI/WhatsApp-based, own project; TODO one-line outcome
 
 ## Technical Skills
 
-### Programming & ML
-- **[LANGUAGE]** ([PROFICIENCY]): [FRAMEWORKS_AND_LIBRARIES]
-- [OTHER_SKILLS]
+### Programming & Backend
+- **Java**: Spring Boot, Spring Security, Hibernate/JPA, Kafka, multithreading
+- **Python**: Django, Celery/background workers
+- Node.js, C, C++, C#, system design
 
-### Domain Expertise
-- [DOMAIN_1]
-- [DOMAIN_2]
+### Frontend
+- Angular, rxjs, ngrx
+
+### Testing
+- Jest, Vitest, React Testing Library, pytest, Playwright, Selenium
 
 ### Software & Tools
-- [TOOL_LIST]
+- Grafana, Azure DevOps, Jira, MuleSoft, Google Gemini (AI coding assistant)
+
+## Certifications & Achievements (NEVER remove anything from this section)
+- Java Programming Certification
+- Hackathon placing
+- TODO: exact titles, issuers, dates
 
 ## Publications
-<!-- List peer-reviewed publications, if any -->
-1. [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL]. [DOI_LINK]
-
-## Awards
-- [AWARD] - [EVENT] ([YEAR])
+- None on CVs (ResearchGate publication and link removed from the resume at the candidate's request)
 
 ## References
-- [NAME], [TITLE], [COMPANY] ([EMAIL], [PHONE])
-
-More references available upon request.
+Available upon request.
