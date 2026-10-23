@@ -59,6 +59,8 @@ Used the time to upskill through hands-on projects (see Independent Projects).
 - **Data:** PostgreSQL, MySQL, Redis (caching), Elasticsearch, SQLite
 - **Reliability & delivery:** Grafana, logging, production debugging, root-cause analysis, JUnit, TestNG, Docker, Linux/Unix, Git, Azure DevOps, GitHub Actions, CI/CD, Agile/Scrum
 - **Also:** Java 17, Spring Boot, Spring Security, Hibernate/JPA, multithreading, system design, MuleSoft, Gemini, RAG; pytest, Playwright, Selenium, Jira (stated by the candidate, not on the current resume)
+- **Added from the Caterpillar ATS resume (stated by the candidate):** Mockito, PowerMock, RabbitMQ, MongoDB, Swagger/OpenAPI, Maven, OSGi, Spring MVC, design patterns, Sonar/Fortify/WebInspect scans, PCF, Kubernetes (listed on that resume; earlier drafts treated Kubernetes as a gap, so keep claims modest), customer acceptance testing
+- **Experience length:** 1.5 yrs at Fidelity + 3 months Nasdaq freelance (about 1.75 yrs). The Caterpillar resume says "2+ years"; do not use "2+" unless the candidate confirms.
 
 ### Certifications & Achievements (NEVER remove or shorten anything here)
 - Java Programming Certification - Coursera, 2021

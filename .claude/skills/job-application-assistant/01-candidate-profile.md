@@ -66,6 +66,8 @@ Remote
 ### Testing, reliability & tools
 - Jest, Vitest, React Testing Library, JUnit, TestNG, Grafana, Docker, Linux/Unix, Git, Azure DevOps, GitHub Actions, CI/CD, Agile/Scrum, Gemini, RAG
 - pytest, Playwright, Selenium, Jira (stated by the candidate, not on the current resume)
+- Added from the Caterpillar ATS resume (stated by the candidate): Mockito, PowerMock, RabbitMQ, MongoDB, Swagger/OpenAPI, Maven, OSGi, Spring MVC, design patterns, Sonar/Fortify/WebInspect scans, PCF, Kubernetes, customer acceptance testing
+- Experience length: about 1.75 yrs (1.5 Fidelity + 3 months Nasdaq). Do not claim "2+ years" unless confirmed.
 
 ## Certifications & Achievements (NEVER remove anything from this section)
 - Java Programming Certification - Coursera, 2021
