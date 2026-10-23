@@ -20,48 +20,49 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
   |----------|-------|
   | TODO | TODO - declare every language you work in and your honest level (an undeclared language is treated as a hard no) |
 - **CV language:** English
-- **Phone / Email:** TODO - fill in before first /apply (not stored here yet)
+- **Phone:** +91 62093 13108
+- **Email:** abhishek5228@gmail.com
 - **LinkedIn:** linkedin.com/in/abhishek-kumar-038473310
 - **GitHub:** github.com/abhishek5228
 - **Portfolio:** abhishek5228.netlify.app (link it on every CV)
 
 - **Status:** Career break since Mar 2024 (see Career break note)
-- **LinkedIn headline:** TODO - fill in
+- **CV headline (from current resume):** Frontend-Focused Full-Stack Developer | Angular, React, TypeScript, JavaScript, HTML/CSS (retarget per role: backend/Java, AI engineer)
 
 ### Career break note (include on EVERY CV and cover letter, 2 lines)
 Career break (Mar 2024 - present): prepared for UPSC and State Civil Services; wrote one UPSC Mains and one BPSC Mains.
 Used the time to upskill through hands-on projects (see Independent Projects).
 
 ### Education
-- **B.Tech in Information Technology** (2018-2022) - VIT Vellore
+- **B.Tech in Information Technology** (Aug 2018 - Jun 2022) - Vellore Institute of Technology, Vellore, Tamil Nadu
+  - CGPA 8.45/10.00
   - Topics: operating systems, C/C++/C#, core CS
 
 ### Professional Experience
-- **TODO exact job title** (2022 - 2023) - **Fidelity Investments** (Bangalore)
-  - Backend services in Java, Spring Boot and Kafka
-  - Monitoring with Grafana
-  - TODO: add quantified achievements (ask before inventing any)
-- **Freelance part-time API Developer** (Jan 2024 - Mar 2024) - **Nasdaq** (MuleSoft)
-  - API development with MuleSoft
+- **Software Engineer** (Jun 2022 - Dec 2023) - **Fidelity Investments** (Bangalore, India)
+  - Cut document-processing time by 35% for Printable, a high-volume DOC/JPG/PNG conversion product, by building Java 17, Spring Boot and Spring MVC microservices
+  - Improved scalability and throughput with Kafka event-driven flows that decouple requests from processing; built the PostgreSQL, Redis and Elasticsearch data layer
+  - Cut error tickets by ~20% by debugging critical production flows to root cause; used Grafana to spot issues early
+  - Added JUnit/TestNG unit and integration tests in Agile/Scrum sprints
+- **API Developer (Freelance, Part-Time)** (Jan 2024 - Mar 2024) - **Nasdaq** (Remote)
+  - Cut manual onboarding steps by ~30% with 12+ REST APIs on MuleSoft for a Buy Now Pay Later loan-onboarding flow; wrote RAML specs and MUnit tests
+- **Career Break (UPSC & State Civil Services preparation)** (Mar 2024 - present) - self-directed, remote
 
 ### Independent Projects
-- **fleet_intelligence** (github.com/abhishek5228/fleet_intelligence) - own project
-- **Fleet breakdown management system** - AI/WhatsApp-based, own project
-- TODO: add one-line outcomes for each
+- **Autonomous Fleet Intelligence Engine** (Python, FastAPI, React, Gemini, RAG) - WhatsApp-first multi-agent system (FastAPI, React/Tailwind dashboard) that triages vehicle breakdowns: diagnosis, workshop routing, price negotiation. Live for a real logistics client. Background workers for queued WhatsApp messages and scheduled tasks; hybrid RAG pipeline on Gemini; 3 APIs; CI/CD on GitHub Actions and Vercel. Code: github.com/abhishek5228/fleet_intelligence | Demo: fleet-swarm-project.vercel.app
+- **VIT Quiz Portal** (academic, team lead; PHP OOP, MySQL, Apache) - quiz portal for VIT's VTOP: MySQL schema, OOP PHP backend, automated scoring for 150 students. Code: github.com/abhishek5228/VIT_QUIZ_PHP
+- **ClearGPT** (JavaScript, Chrome extension) - closes tabs from natural-language commands; on the Chrome Web Store and Product Hunt (producthunt.com/products/cleargpt)
 
 ### Technical Skills
-- **Primary:** Java, Spring Boot, Spring Security, Hibernate/JPA, Kafka, Python, Django
-- **Secondary:** Node.js, Angular (rxjs, ngrx), Celery/background workers, C, C++, C#, multithreading, system design
-- **Testing:** Jest, Vitest, React Testing Library, pytest, Playwright, Selenium
-- **Software:** Grafana, Azure DevOps, Jira, Google Gemini (AI coding assistant), MuleSoft
+- **Backend:** Python, Django, FastAPI, Celery, REST APIs, background workers, asynchronous job processing, Apache Kafka, microservices, distributed systems
+- **Frontend:** JavaScript (ES6+), TypeScript, Angular, rxjs, ngrx, React, HTML5, CSS3, Tailwind CSS, responsive design, Jest, Vitest, React Testing Library, Next.js, Node.js
+- **Data:** PostgreSQL, MySQL, Redis (caching), Elasticsearch, SQLite
+- **Reliability & delivery:** Grafana, logging, production debugging, root-cause analysis, JUnit, TestNG, Docker, Linux/Unix, Git, Azure DevOps, GitHub Actions, CI/CD, Agile/Scrum
+- **Also:** Java 17, Spring Boot, Spring Security, Hibernate/JPA, multithreading, system design, MuleSoft, Gemini, RAG; pytest, Playwright, Selenium, Jira (stated by the candidate, not on the current resume)
 
-### Certifications & Achievements (NEVER remove or shorten this section on any CV)
-- Java Programming Certification
-- Hackathon placing
-- TODO: add exact titles, issuers and dates so they are stated precisely
-
-### Publications
-- None listed on CVs (the ResearchGate publication and its link are removed from the resume at Abhishek's request).
+### Certifications & Achievements (NEVER remove or shorten anything here)
+- Java Programming Certification - Coursera, 2021
+- Fourth Place, HackNexus national-level Hackathon, 2022
 
 ### Behavioral Profile
 - Not assessed. Do not invent traits; treat as unknown.
